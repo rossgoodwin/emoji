@@ -1,0 +1,4 @@
+emoji
+=====
+
+Emoji subtitle generator
