@@ -1,0 +1,416 @@
+1
+00:00:02,018 --> 00:00:02,148
+:
+
+2
+00:00:02,151 --> 00:00:02,281
+::
+
+3
+00:00:02,285 --> 00:00:02,415
+:::
+
+4
+00:00:02,418 --> 00:00:02,548
+::::
+
+5
+00:00:02,551 --> 00:00:02,681
+:::::
+
+6
+00:00:02,685 --> 00:00:02,815
+:::::[
+
+7
+00:00:02,818 --> 00:00:02,948
+:::::[G
+
+8
+00:00:02,951 --> 00:00:03,081
+:::::[GW
+
+9
+00:00:03,085 --> 00:00:03,215
+:::::[GWC
+
+10
+00:00:03,218 --> 00:00:03,348
+:::::[GWC]
+
+11
+00:00:03,351 --> 00:00:03,481
+:::::[GWC]:
+
+12
+00:00:03,485 --> 00:00:03,615
+:::::[GWC]::
+
+13
+00:00:03,618 --> 00:00:03,748
+:::::[GWC]:::
+
+14
+00:00:03,751 --> 00:00:03,881
+:::::[GWC]::::
+
+15
+00:00:03,885 --> 00:00:09,015
+:::::[GWC]:::::
+
+16
+00:00:09,019 --> 00:00:13,009
+We clawed, we chained,
+our hearts in vain
+
+17
+00:00:13,019 --> 00:00:16,999
+We jumped
+never asking why
+
+18
+00:00:17,009 --> 00:00:20,869
+We kissed,
+I fell under your spell
+
+19
+00:00:20,879 --> 00:00:24,679
+A love no one could deny
+
+20
+00:00:25,439 --> 00:00:29,419
+Don’t you ever say I just walked away
+
+21
+00:00:29,429 --> 00:00:33,539
+I will always want you
+
+22
+00:00:33,549 --> 00:00:37,469
+I can’t live a lie
+running for my life
+
+23
+00:00:37,479 --> 00:00:40,709
+I will always want you
+
+24
+00:00:42,219 --> 00:00:46,079
+I came in like a wrecking ball
+
+25
+00:00:46,089 --> 00:00:50,139
+I never hit so hard in love
+
+26
+00:00:50,149 --> 00:00:53,999
+All I wanted was to break your walls
+
+27
+00:00:54,009 --> 00:00:58,929
+All you ever did was break me
+
+28
+00:00:58,939 --> 00:01:02,549
+Yeah you
+you wreck me
+
+29
+00:01:03,059 --> 00:01:06,979
+I put you high up in the sky
+
+30
+00:01:06,990 --> 00:01:10,080
+And now
+you’re not coming down
+
+31
+00:01:10,990 --> 00:01:14,870
+It slowly turned,
+you let me burn
+
+32
+00:01:14,880 --> 00:01:18,490
+And now
+we’re ashes on the ground
+
+33
+00:01:19,310 --> 00:01:23,290
+Don’t you ever say
+I just walked away
+
+34
+00:01:23,300 --> 00:01:27,350
+I will always want you
+
+35
+00:01:27,360 --> 00:01:32,230
+I can’t live a lie
+running for my life
+
+36
+00:01:32,240 --> 00:01:34,320
+I will always want you
+
+37
+00:01:34,510 --> 00:01:37,850
+I came in like a wrecking ball
+
+38
+00:01:38,061 --> 00:01:41,981
+I never hit so hard in love
+
+39
+00:01:41,991 --> 00:01:45,911
+All I wanted was to break your walls
+
+40
+00:01:45,921 --> 00:01:50,341
+All you ever did was break me
+
+41
+00:01:50,351 --> 00:01:54,021
+I came in like a wrecking ball
+
+42
+00:01:54,031 --> 00:01:58,141
+Yeah, I just closed my eyes and swung
+
+43
+00:01:58,151 --> 00:02:01,891
+Left me crouching in a blaze and fall
+
+44
+00:02:01,901 --> 00:02:06,881
+All you ever did was break me
+
+45
+00:02:06,891 --> 00:02:10,681
+Yeah you
+you wreck me
+
+46
+00:02:13,251 --> 00:02:17,111
+I never meant to start a war
+
+47
+00:02:17,121 --> 00:02:20,861
+I just wanted you to let me in
+
+48
+00:02:20,871 --> 00:02:25,291
+And instead of using force
+
+49
+00:02:25,301 --> 00:02:29,221
+I guess I should’ve let you in
+
+50
+00:02:29,231 --> 00:02:33,211
+I never meant to start a war
+
+51
+00:02:33,221 --> 00:02:36,831
+I just wanted you to let me in
+
+52
+00:02:36,841 --> 00:02:40,641
+I guess I should’ve let you in
+
+53
+00:02:43,391 --> 00:02:47,561
+Don’t you ever say I just walked away
+
+54
+00:02:47,571 --> 00:02:50,871
+I will always want you
+
+55
+00:02:52,251 --> 00:02:56,241
+I came in like a wrecking ball
+
+56
+00:02:56,251 --> 00:03:00,041
+I never hit so hard in love
+
+57
+00:03:00,051 --> 00:03:04,041
+All I wanted was to break your walls
+
+58
+00:03:04,051 --> 00:03:08,161
+All you ever did was break me
+
+59
+00:03:08,171 --> 00:03:12,091
+I came in like a wrecking ball
+
+60
+00:03:12,101 --> 00:03:16,141
+Yeah, I just closed my eyes and swung
+
+61
+00:03:16,151 --> 00:03:19,951
+Left me crouching in a blaze and fall
+
+62
+00:03:19,961 --> 00:03:24,941
+All you ever did was break me
+
+63
+00:03:24,951 --> 00:03:28,931
+Yeah you,
+you wreck me
+
+64
+00:03:28,941 --> 00:03:33,301
+Yeah you,
+you wreck me
+
+65
+00:03:33,327 --> 00:03:33,387
+M
+
+66
+00:03:33,388 --> 00:03:33,448
+Me
+
+67
+00:03:33,448 --> 00:03:33,508
+Med
+
+68
+00:03:33,509 --> 00:03:33,569
+Medi
+
+69
+00:03:33,569 --> 00:03:33,629
+Media
+
+70
+00:03:33,630 --> 00:03:33,690
+Media
+
+71
+00:03:33,691 --> 00:03:33,751
+Media &
+
+72
+00:03:33,751 --> 00:03:33,811
+Media &
+
+73
+00:03:33,812 --> 00:03:33,872
+Media & S
+
+74
+00:03:33,872 --> 00:03:33,932
+Media & Su
+
+75
+00:03:33,933 --> 00:03:33,993
+Media & Sub
+
+76
+00:03:33,994 --> 00:03:34,054
+Media & Subt
+
+77
+00:03:34,054 --> 00:03:34,114
+Media & Subti
+
+78
+00:03:34,115 --> 00:03:34,165
+Media & Subtit
+
+79
+00:03:34,175 --> 00:03:34,235
+Media & Subtitl
+
+80
+00:03:34,236 --> 00:03:34,296
+Media & Subtitle
+
+81
+00:03:34,297 --> 00:03:34,357
+Media & Subtitle
+
+82
+00:03:34,357 --> 00:03:34,417
+Media & Subtitle
+
+83
+00:03:34,418 --> 00:03:34,478
+Media & Subtitle
+:
+
+84
+00:03:34,479 --> 00:03:34,539
+Media & Subtitle
+::
+
+85
+00:03:34,539 --> 00:03:34,599
+Media & Subtitle
+:::
+
+86
+00:03:34,600 --> 00:03:34,660
+Media & Subtitle
+::::
+
+87
+00:03:34,660 --> 00:03:34,720
+Media & Subtitle
+:::::
+
+88
+00:03:34,721 --> 00:03:34,781
+Media & Subtitle
+:::::[
+
+89
+00:03:34,782 --> 00:03:34,842
+Media & Subtitle
+:::::[G
+
+90
+00:03:34,842 --> 00:03:34,902
+Media & Subtitle
+:::::[GW
+
+91
+00:03:34,903 --> 00:03:34,963
+Media & Subtitle
+:::::[GWC
+
+92
+00:03:34,963 --> 00:03:35,023
+Media & Subtitle
+:::::[GWC]
+
+93
+00:03:35,024 --> 00:03:35,084
+Media & Subtitle
+:::::[GWC]:
+
+94
+00:03:35,085 --> 00:03:35,135
+Media & Subtitle
+:::::[GWC]::
+
+95
+00:03:35,145 --> 00:03:35,205
+Media & Subtitle
+:::::[GWC]:::
+
+96
+00:03:35,206 --> 00:03:35,266
+Media & Subtitle
+:::::[GWC]::::
+
+97
+00:03:35,266 --> 00:03:42,126
+Media & Subtitle
+:::::[GWC]:::::
+
